@@ -1,3 +1,4 @@
+
 const data = [
 	{
 		id: 1,
@@ -13,7 +14,6 @@ const data = [
 		image: "https://images.unsplash.com/photo-1582650625119-3a31f8fa2699?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2FpbnQlMjBtYXJ0aW4lMjBpc2xhbmR8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
 		price: "10,560 BDT",
 	},
-
 	{
 		id: 3,
 		name: "Nijhum Dwip, Noakhali",
@@ -79,3 +79,4 @@ const data = [
 	},
 ];
 
+export default data;
