@@ -56,3 +56,26 @@ const data = [
 		image: "https://live.staticflickr.com/3849/32948962603_7164d5cedf_b.jpg",
 		price: "6,298 BDT",
 	},
+	{
+		id: 9,
+		name: "Kuakata",
+		info: "Kuakata is a town in southern Bangladesh known for its panoramic sea beach. Kuakata beach is a sandy expanse 18 kilometres long and 3 kilometres wide. From the beach one can have an unobstructed view of both sunrise and sunset over the Bay of Bengal.",
+		image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjubRU_G7eJDw7yiwI1SWcCo_JlXDLxr-b5YO_Hq2IV1VqBW5a7Lj-elHulaYylgyB6sOn9Hz5rPf1IemRtZBI3wGZlv5KKkYN6rGK_rHeqcE4j08wXiqJqkD-KGb_U-kp9MMpeLYBgX40nB9BIa-SjCHwpx8stErD5dV9T14sH_FjPYewF90x44m0gfA/w640-h426/rashedul-islam-hridoy-jQetJK7FiHI-unsplash.jpg",
+		price: "7,795 BDT",
+	},
+	{
+		id: 10,
+		name: "Rangpur",
+		info: "Rangpur is one of the major cities in Bangladesh and Rangpur Division. Rangpur was declared a district headquarters on December 16, 1769, and established as a municipality in 1869, making it one of the oldest municipalities in Bangladesh.",
+		image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/60/70/51/caption.jpg?w=600&h=500&s=1",
+		price: "3,555 BDT",
+	},
+	{
+		id: 11,
+		name: "Rajshahi",
+		info: "Rajshahi is a metropolitan city and a major urban, commercial and educational centre of Bangladesh. It is also the administrative seat of the eponymous division and district. Rajshahi is famous for Rajshahi silk, which has a special status as clothing material in the Indian subcontinent. Rajshahi is the home of the region's best mangoes and lichis.",
+		image: "https://i.ytimg.com/vi/vL0cayp_Pxg/maxresdefault.jpg",
+		price: "3,535 BDT",
+	},
+];
+
