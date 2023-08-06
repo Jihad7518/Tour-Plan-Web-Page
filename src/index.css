@@ -48,3 +48,22 @@ body{
     align-items: center;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
+
+.image{
+    width:380px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.tour-info{
+    margin:20px 5px;
+}
+
+.tour-price{
+    color:#1faa59;
+    font-size:1.3rem;
+}
+
+.tour-name{
+    font-size:1.5rem;
+}
