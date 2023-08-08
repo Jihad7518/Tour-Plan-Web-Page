@@ -8,7 +8,7 @@ function Tours({tours, removeTour}) {
             <div>
                 <h2 className="title">Plan with Jihad</h2>
             </div>
-    <div className="cards">
+            <div className="cards">
                 {
                     tours.map( (tour) => {
                         return (
@@ -20,3 +20,5 @@ function Tours({tours, removeTour}) {
         </div>
     );
 }
+
+export default Tours;
