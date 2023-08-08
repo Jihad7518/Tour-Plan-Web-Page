@@ -10,6 +10,7 @@ function Card({id, image, info, price, name, removeTour}) {
         setReadmore(!readmore);
     }
 
+
     return(
         <div className="card">
             <img src={image} className="image"/>
@@ -18,7 +19,7 @@ function Card({id, image, info, price, name, removeTour}) {
                 <h4 className="tour-price">{price}</h4>
                 <h4 className="tour-name">{name}</h4>
             </div>
-    <div className="description">
+            <div className="description">
                 {description}
                 <span className="read-more" onClick={readmoreHandler}>
                     {readmore ? `Show less` : `Read more`}
@@ -33,3 +34,5 @@ function Card({id, image, info, price, name, removeTour}) {
         </div>
     );
 }
+
+export default Card;
