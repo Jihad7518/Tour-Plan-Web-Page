@@ -1,3 +1,4 @@
+
 import React, { useState } from "react";
 import data from './data';
 import Tours from "./components/Tours";
@@ -20,3 +21,12 @@ const App = () => {
         </div>
     )
 }
+
+  return (
+    <div className="App">
+      <Tours tours={tours} removeTour={removeTour}></Tours>
+    </div>
+  );
+};
+
+export default App;
